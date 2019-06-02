@@ -1,0 +1,20 @@
+
+Call:
+lm(formula = sqsalary ~ GS + YDS.ATT + nltd, data = Norm_OFF_Salary)
+
+Coefficients:
+(Intercept)           GS  
+    1.18191      0.09071  
+    YDS.ATT         nltd  
+   -0.09490      0.35312  
+
+
+Call:
+lm(formula = sqsalary ~ GS + YDS.ATT + nltd, data = Norm_OFF_Salary)
+
+Coefficients:
+(Intercept)           GS  
+    1.18191      0.09071  
+    YDS.ATT         nltd  
+   -0.09490      0.35312  
+
